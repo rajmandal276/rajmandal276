@@ -3,7 +3,7 @@
 <h3 align="center">I am a computer science undergraduate with a passion for development. I am a highly motivated and results-oriented individual with a strong track record of success. I am proficient in a variety of programming languages and technologies, and I am always eager to learn new things. I am also a team player and I am able to work effectively under pressure.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif">
 
-[![](https://visitcount.itsvg.in/api?id=rajmandal276&icon=5&color=12)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajmandal276&label=Profile%20views&color=0e75b6&style=flat" alt="rajmandal276" /> </p>
 
 💬 Ask me about Java, javascript, MySQL<br>📫 How to reach me rajmandal276@gmail.com
 
