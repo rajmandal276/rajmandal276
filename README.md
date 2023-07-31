@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajmandal276&label=Profile%20views&color=0e75b6&style=flat" alt="rajmandal276" /> </p>
 
-💬 Ask me about Java, javascript, MySQL<br>📫 How to reach me rajmandal276@gmail.com
+🌍  I'm based in Bhubaneswar, Odisha<br>💬 Ask me about Java, Javascript, MySQL<br>📫 How to reach me rajmandal276@gmail.com<br>
+🤝  I'm open to collaborating on interesting projects
 
 
 ## 🌐 Socials:
